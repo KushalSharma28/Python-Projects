@@ -100,3 +100,15 @@ python-programs/
 └── README.md
 ```
 ---
+## 🤝 Contributing
+
+Feel free to fork the repo, raise issues, or submit pull requests for improvements and new test cases.
+
+---
+
+## 📬 Contact
+
+* Maintainer: [Kushal Sharma](mailto:kushalsharma28499@gmail.com)
+* GitHub: [KushalSharma28](https://github.com/KushalSharma28)
+
+---
