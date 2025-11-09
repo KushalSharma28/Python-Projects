@@ -1,4 +1,0 @@
-name = input ("Your Name = ")
-print ("hello " + name)
-age = input ("your age = ")
-print ("your age " + age)
